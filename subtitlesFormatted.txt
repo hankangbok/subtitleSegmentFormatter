@@ -1,0 +1,58 @@
+1
+12:34:56--> 12:34:56
+
+
+2
+12:35:23--> 53:23:45
+
+
+3
+12:34:56--> 12:34:56
+
+
+4
+12:34:56--> 12:34:52
+
+
+5
+12:34:56--> 12:30:98
+
+
+6
+12:34:56--> 12:23:45
+
+
+7
+12:34:56--> 12:76:54
+
+
+8
+Error: this segment is too long or too short
+All subsequent cases should produce an error
+
+
+9
+Error: this segment is too long or too short
+123456 1276542
+
+
+10
+Error: this segment is too long or too short
+444
+
+
+11
+Error: this segment is too long or too short
+44234
+
+
+12
+Error: this segment is too long or too short
+123567
+
+
+13
+Error: this segment is too long or too short
+26357899
+
+Check subtitlesFormatted.txt for the edited text
